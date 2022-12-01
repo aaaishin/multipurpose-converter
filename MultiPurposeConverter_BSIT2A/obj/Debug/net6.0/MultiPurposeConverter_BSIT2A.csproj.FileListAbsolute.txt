@@ -1,0 +1,15 @@
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\bin\Debug\net6.0\MultiPurposeConverter_BSIT2A.exe
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\bin\Debug\net6.0\MultiPurposeConverter_BSIT2A.deps.json
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\bin\Debug\net6.0\MultiPurposeConverter_BSIT2A.runtimeconfig.json
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\bin\Debug\net6.0\MultiPurposeConverter_BSIT2A.dll
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\bin\Debug\net6.0\MultiPurposeConverter_BSIT2A.pdb
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.csproj.AssemblyReference.cache
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.AssemblyInfoInputs.cache
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.AssemblyInfo.cs
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.csproj.CoreCompileInputs.cache
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.dll
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\refint\MultiPurposeConverter_BSIT2A.dll
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.pdb
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\MultiPurposeConverter_BSIT2A.genruntimeconfig.cache
+D:\Programming\git\multipurpose-converter\MultiPurposeConverter_BSIT2A\obj\Debug\net6.0\ref\MultiPurposeConverter_BSIT2A.dll
