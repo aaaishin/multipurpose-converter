@@ -1,1 +1,3 @@
-This is a multi-purpose converted made in C#.
+# Multi-purpose Converter
+
+This is a multi-purpose converter made in C#.
